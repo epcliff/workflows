@@ -2,12 +2,13 @@
   "name": "workflows",
   "version": "0.0.1",
   "description": "A project to showcase workflows",
-  "dependencies": {
-    "gulp": "^3.8.6"
-  },
   "repository": {
-    "type":"git",
+    "type": "git",
     "url": "?.git"
   },
-  "author": "April Talampas"
+  "author": "April Talampas",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-util": "^2.2.20"
+  }
 }
