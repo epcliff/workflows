@@ -1,0 +1,21 @@
+{
+  "name": "bbcalc",
+  "version": "0.0.1",
+  "description": "Embedded Developer's Buy Vs. Build Calculator",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/aspencode/bbcalc.git"
+  },
+  "author": "April Talampas",
+  "devDependencies": {
+    "gulp": "^3.8.6",
+    "gulp-browserify": "^0.5.0",
+    "gulp-compass": "^1.1.9",
+    "gulp-concat": "^2.3.4",
+    "gulp-connect": "^2.0.6",
+    "gulp-if": "^1.2.4",
+    "gulp-uglify": "^0.3.1",
+    "gulp-util": "^3.0.0",
+    "jquery": "^2.1.1"
+  }
+}

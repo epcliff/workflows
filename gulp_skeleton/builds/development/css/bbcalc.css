@@ -1,0 +1,11 @@
+/* Buy Vs. Build Calculator
+*  =========================
+* Note: all class and id names should be prefixed with 'bbcalc_'. */
+/*@import "compass/reset";*/
+/* line 4, ../components/sass/_base.scss */
+.bbcalc_container {
+  height: 313px;
+  width: 590px;
+  border: 1px solid #000;
+  margin-left: 20px;
+}
